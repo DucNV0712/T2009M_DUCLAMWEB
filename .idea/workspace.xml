@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Css/css assignmet2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/121163177_3345206545568047_2422670637043092113_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,17 +55,38 @@
       <workItem from="1602420213853" duration="38000" />
       <workItem from="1602467468385" duration="3777000" />
       <workItem from="1602495357999" duration="16332000" />
+      <workItem from="1602552441856" duration="395000" />
     </task>
+    <task id="LOCAL-00001" summary="BTVN2">
+      <created>1602552656791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602552656791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BTVN2" />
+    <option name="LAST_COMMIT_MESSAGE" value="BTVN2" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="382" y="0" key="CommitChangelistDialog2" timestamp="1602552655373">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602552655373" />
     <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1602468603406">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="165" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602468603406" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602552666905">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602552666905" />
     <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1602503957157">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
