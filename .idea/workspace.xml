@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="" />
+    <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="BTVN">
+      <change afterPath="$PROJECT_DIR$/Css/box model.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/css labs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/phone-alt-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/AVATA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/K_a_r_m_a_ • ZEDGE™ wallpapers and ringtones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Normal-Note20-800-300-800x300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/PAC MAN Solar System Planets iPhone Wallpaper - iPhone Wallpapers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Tải ngay bộ ảnh nền chủ đề Vintage đơn giản nhưng quyến rũ cho máy tính.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iPhone wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/samsung-galaxy-note-20-ultra-5g-051920-101934-400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spencer-harrison-wallpaper-2560x1440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wallpaper full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sission3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/css assignmet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/css assignmet2.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/icon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -40,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DUCLAMWEB\icon" />
       <recent name="D:\DUCLAMWEB\img" />
     </key>
   </component>
@@ -55,7 +76,12 @@
       <workItem from="1602420213853" duration="38000" />
       <workItem from="1602467468385" duration="3777000" />
       <workItem from="1602495357999" duration="16332000" />
-      <workItem from="1602552441856" duration="395000" />
+      <workItem from="1602552441856" duration="1118000" />
+      <workItem from="1602553594362" duration="12372000" />
+      <workItem from="1602608717000" duration="3475000" />
+      <workItem from="1602652561017" duration="8776000" />
+      <workItem from="1602691111974" duration="3512000" />
+      <workItem from="1602724768862" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -64,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602552656791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BTVN">
+      <created>1602552973753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602552973753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,24 +105,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BTVN2" />
-    <option name="LAST_COMMIT_MESSAGE" value="BTVN2" />
+    <MESSAGE value="BTVN" />
+    <option name="LAST_COMMIT_MESSAGE" value="BTVN" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="382" y="0" key="CommitChangelistDialog2" timestamp="1602552655373">
+    <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602553094886">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602552655373" />
+    <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602553094886" />
+    <state x="382" y="0" key="CommitChangelistDialog2" timestamp="1602553280423">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602553280423" />
     <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1602468603406">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="165" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602468603406" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602552666905">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602553290167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602552666905" />
-    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1602503957157">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602553290167" />
+    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1602657596858">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602503957157" />
+    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602657596858" />
   </component>
 </project>
