@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="BTVN">
-      <change afterPath="$PROJECT_DIR$/Css/Lab S4.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/box model.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/sission4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab S4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icon/phone-alt-solid.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/K_a_r_m_a_ • ZEDGE™ wallpapers and ringtones.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/Normal-Note20-800-300-800x300.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/PAC MAN Solar System Planets iPhone Wallpaper - iPhone Wallpapers.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/Tải ngay bộ ảnh nền chủ đề Vintage đơn giản nhưng quyến rũ cho máy tính.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/iPhone wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/20170326090132_pic_7_158838ec191d4a87908f4f04d3c6cd53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/9804909_2_d21bfee27aab4703b1cca0bbede12954.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/designare-memory-64gb--2x32gb-3200mhz-3_12434687de5940de9869a4eb2afff9d8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/f4-3600c18d-16gtzr-1_deee3be6ed6345a8894368c1c9860ac6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/gearvn-toughram-rgb-ddr4-1_b9b614facebf451f8d1390071d910dc4_large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ing labs4/ram_adata_d60_rgb_gearvn00_c7a0e2c882844923b31c33c863bbabc6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/samsung-galaxy-note-20-ultra-5g-051920-101934-400x400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/spencer-harrison-wallpaper-2560x1440.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/wallpaper full.jpg" afterDir="false" />
@@ -28,7 +20,9 @@
       <change beforePath="$PROJECT_DIR$/Assignment 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment1.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Lab S4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Lab S4 fix.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Css/css assignmet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/css assignmet2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S4 fix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,8 @@
       <workItem from="1602724768862" duration="4857000" />
       <workItem from="1602733540857" duration="1774000" />
       <workItem from="1602735345262" duration="2913000" />
-      <workItem from="1602827645221" duration="8738000" />
+      <workItem from="1602827645221" duration="9499000" />
+      <workItem from="1602857918224" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -124,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602725348492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BTVN Lab S4">
+      <created>1602843188790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602843188790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,16 +136,18 @@
     <MESSAGE value="BTVN2" />
     <MESSAGE value="BTVN LAPS3" />
     <MESSAGE value="BTVN" />
-    <option name="LAST_COMMIT_MESSAGE" value="BTVN" />
+    <MESSAGE value="BTVN Lab S4" />
+    <option name="LAST_COMMIT_MESSAGE" value="BTVN Lab S4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602553094886">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602553094886" />
-    <state x="382" y="0" key="CommitChangelistDialog2" timestamp="1602725346105">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1202" y="101" key="CommitChangelistDialog2" timestamp="1602843186541">
+      <screen x="-1600" y="101" width="1600" height="870" />
     </state>
+    <state x="-1202" y="101" key="CommitChangelistDialog2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602843186541" />
     <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602725346105" />
     <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1602468603406">
       <screen x="0" y="0" width="1536" height="834" />
@@ -153,9 +157,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602725932116" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602725355072">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602843193664">
+      <screen x="-1600" y="101" width="1600" height="870" />
     </state>
+    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602843193664" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602725355072" />
     <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1602725935635">
       <screen x="0" y="0" width="1536" height="834" />
