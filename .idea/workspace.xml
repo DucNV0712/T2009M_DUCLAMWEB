@@ -20,9 +20,9 @@
       <change beforePath="$PROJECT_DIR$/Assignment 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment1.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Css/Lab S4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Lab S4 fix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Lab S4 fix.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Lab S4 fix.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Css/css assignmet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/css assignmet2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S4 fix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S4 fix.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S4 fix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,9 @@
       <workItem from="1602733540857" duration="1774000" />
       <workItem from="1602735345262" duration="2913000" />
       <workItem from="1602827645221" duration="9499000" />
-      <workItem from="1602857918224" duration="1738000" />
+      <workItem from="1602857918224" duration="2087000" />
+      <workItem from="1602860647637" duration="281000" />
+      <workItem from="1602895945250" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602843188790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="BTVN Lab S4">
+      <created>1602859860784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602859860784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +153,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602553094886" />
-    <state x="-1202" y="101" key="CommitChangelistDialog2" timestamp="1602843186541">
+    <state x="-1202" y="101" key="CommitChangelistDialog2" timestamp="1602859858507">
       <screen x="-1600" y="101" width="1600" height="870" />
     </state>
-    <state x="-1202" y="101" key="CommitChangelistDialog2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602843186541" />
+    <state x="-1202" y="101" key="CommitChangelistDialog2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859858507" />
     <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602725346105" />
     <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1602468603406">
       <screen x="0" y="0" width="1536" height="834" />
@@ -157,10 +166,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602725932116" />
-    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602843193664">
+    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602859864498">
       <screen x="-1600" y="101" width="1600" height="870" />
     </state>
-    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602843193664" />
+    <state x="-1224" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859864498" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602725355072" />
     <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1602725935635">
       <screen x="0" y="0" width="1536" height="834" />
