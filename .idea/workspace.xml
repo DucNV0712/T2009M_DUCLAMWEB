@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="BTVN">
-      <change afterPath="$PROJECT_DIR$/Css/Lab S5.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/box model.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/sission4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab S5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icon/phone-alt-solid.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/K_a_r_m_a_ • ZEDGE™ wallpapers and ringtones.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/Normal-Note20-800-300-800x300.png" afterDir="false" />
@@ -17,19 +15,22 @@
       <change afterPath="$PROJECT_DIR$/img/img background/wallpaper full.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sission/sission3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sission/sission4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 1.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment1.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment2.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Css/css assignmet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/css assignmet2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab S4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab S5.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/121163177_3345206545568047_2422670637043092113_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/121163177_3345206545568047_2422670637043092113_n.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AVATA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/AVATA.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/BacSi.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/BacSi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/Chien Si Cong An.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/Chien Si Cong An.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/Vietnam.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/Vietnam.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/labs3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sission/Sission 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sission 5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
       <workItem from="1602898356983" duration="7481000" />
       <workItem from="1603093239573" duration="3835000" />
       <workItem from="1603109315151" duration="9440000" />
-      <workItem from="1603123480905" duration="2745000" />
+      <workItem from="1603123480905" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603126056325</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="BTVN">
+      <created>1603126324458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603126324458</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,12 +217,12 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602553094886" />
-    <state x="-1202" y="0" key="CommitChangelistDialog2" timestamp="1603125736123">
+    <state x="-1202" y="0" key="CommitChangelistDialog2" timestamp="1603126323047">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="-1202" y="101" key="CommitChangelistDialog2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859858507" />
     <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602898732230" />
-    <state x="-1202" y="0" key="CommitChangelistDialog2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603125736123" />
+    <state x="-1202" y="0" key="CommitChangelistDialog2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126323047" />
     <state x="-1464" y="59" key="DiffContextDialog" timestamp="1603125771089">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
@@ -223,16 +231,20 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="165" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602468603406" />
+    <state x="-924" y="134" key="RollbackChangesDialog" timestamp="1603126303030">
+      <screen x="-1600" y="0" width="1600" height="870" />
+    </state>
+    <state x="-924" y="134" key="RollbackChangesDialog/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126303030" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1602725932116">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602725932116" />
-    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603125777134">
+    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603126329262">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="-1224" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859864498" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602898811107" />
-    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603125777134" />
+    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126329262" />
     <state x="-1551" y="161" width="700" height="708" key="search.everywhere.popup" timestamp="1603118279294">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
