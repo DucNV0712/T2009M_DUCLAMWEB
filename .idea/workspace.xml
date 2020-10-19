@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="BTVN">
+      <change afterPath="$PROJECT_DIR$/Css/Lab S5.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/box model.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/sission4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab/Lab S5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icon/phone-alt-solid.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/K_a_r_m_a_ • ZEDGE™ wallpapers and ringtones.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/Normal-Note20-800-300-800x300.png" afterDir="false" />
@@ -108,7 +110,7 @@
       <workItem from="1602898356983" duration="7481000" />
       <workItem from="1603093239573" duration="3835000" />
       <workItem from="1603109315151" duration="9440000" />
-      <workItem from="1603123480905" duration="2398000" />
+      <workItem from="1603123480905" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603125708028</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="BTVN">
+      <created>1603126056325</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603126056325</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,9 +200,9 @@
     <MESSAGE value="BTVN LAPS3" />
     <MESSAGE value="BTVN Lab S4" />
     <MESSAGE value="BTVN lab s4" />
-    <MESSAGE value="BTVN" />
     <MESSAGE value="BTVN LabS5" />
-    <option name="LAST_COMMIT_MESSAGE" value="BTVN LabS5" />
+    <MESSAGE value="BTVN" />
+    <option name="LAST_COMMIT_MESSAGE" value="BTVN" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602553094886">
