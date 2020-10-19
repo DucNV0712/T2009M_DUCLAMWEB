@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float: none;
+
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+/* xong layout */
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 30px 0;
+}
+.logo{
+    float: left;
+    color: #232323;
+    width: 40%;
+    font-size:30px;
+    font-family: 'Bebas Neue',sans-serif;
+}
+.top-links{
+    float: right;
+    color: red;
+    font-size: 15px;
+    font-family:'Libre Baskerville',Sans-Serif;
+    text-decoration:none;
+    width: 30%;
+
+}
+
+.top-links li{
+    float: right;
+    color: black;
+    list-style: none;
+    margin-left: 15px;
+}
+a{
+    color: #232323;
+    text-decoration: none;
+}
+h1{
+    font-size:25px;
+    font-family: 'Crete Round',Sans-Serif;
+}
+p{
+    font-size: 20px;
+}
+b{
+    color: red;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+    font-size:16px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.body-content{
+    background-color: #ffffff;
+    padding: 40px;
+    float: left;
+    width: 100%;
+}
+.block{
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.black-block{
+    background-color:#434343;
+    height: 250px;
+}
+span{
+    color: white;
+}
+#Lk{
+    color: #232323;
+}
+
+input{
+    width:320px;
+    height:40px;
+}
+.dang-ky input[type="submit"]{
+    background: red;
+    height: 50px;
+
+}
+.dang-ky input[value="Đăng Ký"]{
+    color: white;
+}
+.block-icon{
+    height: 200px;
+    background-color: white;
+}
+.fab{
+    float: left;
+    margin:10px 10px;
+    font-size: 50px;
+    text-decoration: none;
+}
+.fab:hover{
+    opacity: 0.7;
+}
+.fa-facebook-square{
+    color: #232323;
+}
+.fa-instagram{
+    color: #232323;
+
+}
+.fa-github-square{
+    color: #232323;
+}
+.fa-pinterest-square{
+    color: #232323;
+}
+.fa-reddit-square{
+    color: #232323;
+}
+.fa-snapchat-square{
+    color: #232323;
+}
+.fa-youtube-square{
+    color: #232323;
+}
+.fa-twitter-square{
+    color: #232323;
+}
+.fa-google-plus-square{
+    color: #232323;
+}
+.fa-discord{
+    color: #232323;
+}
+.Timkiem{
+    margin-top: -20px;
+}
