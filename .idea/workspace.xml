@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d737dc7-1505-4cbe-ae05-1ea1480bcccf" name="Default Changelist" comment="BTVN">
+      <change afterPath="$PROJECT_DIR$/Css/Demobootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Sission7.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/box model.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/labs7.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Css/sission4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sission 6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icon/phone-alt-solid.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/K_a_r_m_a_ • ZEDGE™ wallpapers and ringtones.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/Normal-Note20-800-300-800x300.png" afterDir="false" />
@@ -13,8 +17,33 @@
       <change afterPath="$PROJECT_DIR$/img/img background/samsung-galaxy-note-20-ultra-5g-051920-101934-400x400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/spencer-harrison-wallpaper-2560x1440.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/img background/wallpaper full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sission/sission3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sission/sission4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/Wallpaper floral para celular - download grátis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/b001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/b002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/b004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/b01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/iPhone Wallpapers HD - High-Quality iPhone Backgrounds [Free Download].jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sission/logo-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap 3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sission 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sission3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sission4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 1.php" beforeDir="false" />
@@ -30,7 +59,6 @@
       <change beforePath="$PROJECT_DIR$/img/Chien Si Cong An.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/Chien Si Cong An.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/Vietnam.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img background/Vietnam.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sission/Sission 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sission 5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,17 +98,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DUCLAMWEB\img\sission" />
+      <recent name="D:\DUCLAMWEB\libs\bootstrap 3.4.1" />
+      <recent name="D:\DUCLAMWEB\img\ing labs4" />
+      <recent name="D:\DUCLAMWEB\icon" />
+      <recent name="D:\DUCLAMWEB\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DUCLAMWEB" />
       <recent name="D:\DUCLAMWEB\sission" />
       <recent name="D:\DUCLAMWEB\Lab" />
       <recent name="D:\DUCLAMWEB\Assignment" />
-      <recent name="D:\DUCLAMWEB\img" />
-      <recent name="D:\DUCLAMWEB\img\img background" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\DUCLAMWEB\img\sission" />
-      <recent name="D:\DUCLAMWEB\img\ing labs4" />
-      <recent name="D:\DUCLAMWEB\icon" />
       <recent name="D:\DUCLAMWEB\img" />
     </key>
   </component>
@@ -111,7 +140,12 @@
       <workItem from="1602898356983" duration="7481000" />
       <workItem from="1603093239573" duration="3835000" />
       <workItem from="1603109315151" duration="9440000" />
-      <workItem from="1603123480905" duration="3185000" />
+      <workItem from="1603123480905" duration="3367000" />
+      <workItem from="1603157527463" duration="9008000" />
+      <workItem from="1603264562847" duration="13518000" />
+      <workItem from="1603289291393" duration="11899000" />
+      <workItem from="1603329414045" duration="13050000" />
+      <workItem from="1603364459434" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="BTVN2">
       <created>1602552656791</created>
@@ -197,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603126324458</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="BTVN">
+      <created>1603126729216</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603126729216</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,20 +258,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="507" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602553094886" />
-    <state x="-1202" y="0" key="CommitChangelistDialog2" timestamp="1603126323047">
+    <state x="-1202" y="0" key="CommitChangelistDialog2" timestamp="1603126727768">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="-1202" y="101" key="CommitChangelistDialog2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859858507" />
     <state x="382" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602898732230" />
-    <state x="-1202" y="0" key="CommitChangelistDialog2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126323047" />
+    <state x="-1202" y="0" key="CommitChangelistDialog2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126727768" />
     <state x="-1464" y="59" key="DiffContextDialog" timestamp="1603125771089">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="-1464" y="59" key="DiffContextDialog/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603125771089" />
-    <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1602468603406">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1428" y="179" key="FileChooserDialogImpl" timestamp="1603296511002">
+      <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="165" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602468603406" />
+    <state x="-1428" y="179" key="FileChooserDialogImpl/0.0.1600.870/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603296511002" />
     <state x="-924" y="134" key="RollbackChangesDialog" timestamp="1603126303030">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
@@ -239,16 +281,20 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602725932116" />
-    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603126329262">
+    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603126732011">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
     <state x="-1224" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1600.101.1600.870@-1600.101.1600.870" timestamp="1602859864498" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602898811107" />
-    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126329262" />
-    <state x="-1551" y="161" width="700" height="708" key="search.everywhere.popup" timestamp="1603118279294">
+    <state x="-1224" y="156" key="Vcs.Push.Dialog.v2/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603126732011" />
+    <state x="-1144" y="198" key="run.anything.popup" timestamp="1603267123362">
       <screen x="-1600" y="0" width="1600" height="870" />
     </state>
-    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602725935635" />
-    <state x="-1551" y="161" width="700" height="708" key="search.everywhere.popup/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603118279294" />
+    <state x="-1144" y="198" key="run.anything.popup/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603267123362" />
+    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1603340644797">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="47" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603340644797" />
+    <state x="-1551" y="161" width="700" height="708" key="search.everywhere.popup/0.0.1600.866/-1600.0.1600.870@-1600.0.1600.870" timestamp="1603264648358" />
   </component>
 </project>
