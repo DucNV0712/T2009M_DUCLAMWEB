@@ -1,0 +1,217 @@
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color:#f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    float: left;
+    width: 100%;
+}
+.header{
+    background-color:;
+    height: 400px;
+}
+.header-top{
+    height:70px;
+    width:100%;
+    border-bottom: 1px solid gray;
+}
+.header-bottom{
+    height: 470px;
+    width: 100%;
+}
+.main{
+    margin-top:20px;
+    width:100%;
+    height:auto;
+
+}
+.content{
+    margin: 0 10% 0 10%;
+}
+.top{>
+    width: 80%;
+    height: 70px;
+}
+.phone-email{
+    float: left;
+    width: 400px;
+    height: 50px;
+
+}
+.socal{
+    float: right;
+    width: 400px;
+    height: 50px;
+
+}
+.bottom{
+    width: 80%;
+    height: 470px;
+}
+.menu{
+    height:150px;
+    width: 100%;
+}
+.menu-bottom{
+    float: left;
+
+}
+.logo{
+
+    width:200px;
+    height: 100%;
+}
+.nav2{
+    margin-left:100px;
+    width:70%;
+    height: 100%;
+}
+.text{
+    height:300px;
+    width: 60%;
+    margin:0 20% 0 20%;
+}
+.section-main{
+    width: 80%;
+    height: auto;
+    border: 1px solid darkred;
+}
+.Showing-results{
+    width: 70%;
+    height: 200px;
+    border: 1px solid black;
+    margin:4% 15% 0 15%;
+}
+.san-pham{
+    float: left;
+    margin:30px 0px 30px 30px;
+    width: 30%;
+    height: 500px;
+
+}
+.logo img{
+    margin-top:40px;
+}
+.texth1{
+    color: white;
+    font-size:70px;
+    text-align: center;
+    padding-top:40px;
+    font-weight: inherit;
+    font-family:'Archivo Black',Sans-Serif;
+}#textnav{
+    text-align: center;
+    font-size: 20px;
+ }
+ .fa-angle-double-right{
+     color:lightblue;
+ }
+ #text{
+     color: white;
+ }
+.text-menu{
+     float: right;
+     margin:40px 15px 0px 0;
+     font-size:17px;
+ }
+ a{
+     color: white;
+ }
+
+ul { list-style-type: none; }
+.btn-primary{
+    font-size: 25px;
+    margin-top: -17px;
+    width: 200px;
+    height: 60px;
+    background-color: #31b0d5;
+}
+#booknow{
+    margin-top: 4px;
+    font-family:'Hammersmith One',Sans-Serif;
+}
+.fa-phone-square{
+    color: white;
+    margin-top:25px;
+    font-size:15px;
+}
+.fa-envelope-square{
+    color:white;
+    margin-right:15px;
+    font-size:15px;
+}
+.fa-facebook-squaref{
+    color:white;
+    font-size: 20px;
+}
+.fab{
+    font-size: 30px;
+    margin-top: -70px;
+}
+.iconsocal{
+    float:right;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+.san-pham img{
+    width: 100%;
+    height: 300px;
+}
+.content-sanpham{
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid gray;
+}
+#name-sanpham{
+    color: black;
+    font-size: 20px;
+    font-family: 'Fjalla One',Sans-Serif;
+
+}
+#thơihan-gia{
+    float: right;
+    margin-top: -40px;
+}
+b{
+    font-size: 20px;
+    color: #31b0d5;
+}
+.dat-hang{
+    width: 100%;
+    height: 60px;
+    border: 1px whitesmoke;
+    text-align: center;
+    background-color:whitesmoke;
+}
+.btn-danger{
+
+}
+#readmore{
+    font-size:30px;
+    color: black;
+    margin-top: -10px;
+}
+.bottom{
+    width:100%;
+    height: 70px;
+    border: 1px solid black;
+}
+.dat-hang:hover{
+    background-color:#5bc0de;
+}
+#readmore:hover{
+    color: white;
+}
+.dat-hang:active{
+    box-shadow: 0 1px 0 #00823F;
+    bottom:-4px;
+}

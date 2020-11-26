@@ -1,0 +1,60 @@
+*{
+
+}
+.top{
+    margin-top:5px;
+    background-color:red;
+    width: 100%;
+    height: 60px;
+}
+.name{
+    color: white;
+    font-family:'Arvo',Sans-Serif;
+    margin-left: 10px;
+}
+.name-ao{
+    font-family: 'Merienda One',Sans-Serif;
+}
+.san-pham{
+    background-color:whitesmoke;
+    height:505px;
+    margin-top:30px;
+    margin-left:30px;
+    box-shadow:5px 5px 5px darkgray;
+}
+.san-pham img{
+    width:100%;
+    height:auto;
+}
+.san-pham .add-to-cart{
+    float: left;
+    width:100%;
+    background-color: #cccccc;
+    color: #ffffff;
+    font-weight:400;
+    text-decoration: none;
+    padding:10px 0;
+    transition: background-color 300ms;
+}
+.san-pham .add-to-cart:hover {
+    background-color: #bfbebe;
+}
+.san-pham .star{
+    float: left;
+    width: 100%;
+    margin: 10px 0 ;
+}
+.san-pham  .star-box{
+    float: left;
+    margin-left: calc((100% - 160px)/2);
+    width: 160px;
+    height: 32px;
+    background-image: url("../img/Lab S12/star-off.png");
+    background-repeat: repeat-x;
+}
+.san-pham .star-box .star-rate{
+    float: left;
+    height: 32px;
+    background-image: url("../img/Lab S12/star-on.png");
+    background-repeat: repeat-x;
+}
